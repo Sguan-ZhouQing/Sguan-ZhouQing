@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/-HFI%20高频注入-234B70?style=flat-square&logo=aither&logoColor=white" />
   <img src="https://img.shields.io/badge/-SMO滑模-2C5F8A?style=flat-square&logo=addthis&logoColor=white" />
   <img src="https://img.shields.io/badge/-PLL锁相环-1F5C93?style=flat-square&logo=prettier&logoColor=white" />
-  <br/>
   <!-- 嵌入式平台及工具 -->
   <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/-DSP28335-00447C?style=flat-square&logo=texasinstruments&logoColor=white" />
@@ -21,8 +20,3 @@
   <img src="https://img.shields.io/badge/-CANopen-0B5394?style=flat-square&logo=controller&logoColor=white" />
 </div>
 
----
-
-<div align="right">
-  ⚙️ 永磁同步电机·FOC电机控制 星必尘Sguan &nbsp;&nbsp; 📌 “让电机旋转如丝般顺滑”
-</div>
