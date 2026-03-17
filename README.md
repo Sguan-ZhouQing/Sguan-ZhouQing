@@ -1,12 +1,4 @@
-# 👋 Hi, I'm 星必尘Sguan
-
- 🔭 **目前专注于：** 永磁同步电机(PMSM) 无传感器FOC控制，嵌入式系统开发
- 
- 🌱 **学习中：** 现代控制理论、信号与系统、EtherCAT总线、CANopen
- 
- 💬 **擅长：** 电机控制算法链 (SguanFOC)，嵌入式软硬件开发，PID和LADRC自整定
- 
- 📫 **联系我：** 3464647102@qq.com | [GitHub](https://github.com/Sguan-ZhouQing) | [硬件开源](https://oshwhub.com/sguan606)
+ <h1 align="center"> <a href="https://www.yuque.com/coderxiaoluo"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好，我是星必尘Sguan!&center=true&size=27"> </a> </h1>
  
 <!-- 技术栈徽章 -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
