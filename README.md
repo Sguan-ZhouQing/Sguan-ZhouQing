@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Sguan-ZhouQing&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" align="right" width="45%">
-&nbsp;&nbsp;&nbsp;&nbsp;Hi there 👋我是一名**电机控制算法工程师**，专注于永磁同步电机(PMSM)无传感器FOC控制，能够独立完成从算法仿真、软硬件设计的全流程开发。我的核心能力包括：
+## Hi there 👋 <img src="https://github-readme-stats.vercel.app/api?username=Sguan-ZhouQing&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" align="right" width="45%">
+&nbsp;&nbsp;&nbsp;&nbsp;我是一名**电机控制算法工程师**，专注于永磁同步电机(PMSM)无传感器FOC控制，能够独立完成从算法仿真、软硬件设计的全流程开发。我的核心能力包括：
 1. 永磁同步电机(PMSM)无感FOC算法及电控工程Simulink仿真
 2. 嵌入式ARM、DSP、RISC-V单片机开发和PCB硬件电路设计
 3. 工业总线通信：CAN/CANopen(CIA402)、Modbus、EtherCAT原理及应用
