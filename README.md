@@ -24,4 +24,3 @@
   <img src="https://img.shields.io/badge/-FreeRTOS-147B50?style=flat-square&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB/Simulink-DC3C00?style=flat-square&logo=mathworks&logoColor=white" />
 </div>
-
