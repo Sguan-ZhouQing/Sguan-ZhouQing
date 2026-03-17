@@ -9,8 +9,6 @@
 + 硬件电路设计：嘉立创EDA、PCB Layout、电机驱动板设计
 + 工业总线通信：CAN/CANopen(CIA402)、Modbus、EtherCAT原理及应用
 + 仿真与分析：MATLAB/Simulink控制系统建模、数据可视化
-
-📫 联系我：**3464647102@qq.com** | [GitHub](https://github.com/Sguan-ZhouQing) | [硬件开源OSHWHub](https://oshwhub.com/sguan606)
  
 <!-- 技术栈徽章 -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
