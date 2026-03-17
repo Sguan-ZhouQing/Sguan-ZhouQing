@@ -6,7 +6,7 @@
 
 + 永磁同步电机(PMSM)无感FOC算法及电机控制链全实现
 + 嵌入式平台开发：ARM系列、DSP28335、RISC-V架构
-+ 硬件电路设计：嘉立创EDA、PCB Layout、电机驱动板设计(多层高密度)
++ 硬件电路设计：嘉立创EDA、PCB Layout、电机驱动板设计
 + 工业总线通信：CAN/CANopen(CIA402)、Modbus、EtherCAT原理及应用
 + 仿真与分析：MATLAB/Simulink控制系统建模、数据可视化
 
