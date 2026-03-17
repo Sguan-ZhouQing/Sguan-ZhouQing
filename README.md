@@ -23,6 +23,5 @@
   <img src="https://img.shields.io/badge/-RISC--V-2A558A?style=flat-square&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/-FreeRTOS-147B50?style=flat-square&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB/Simulink-DC3C00?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CANopen-0B5394?style=flat-square&logo=controller&logoColor=white" />
 </div>
 
