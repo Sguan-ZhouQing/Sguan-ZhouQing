@@ -13,7 +13,6 @@
   <!-- 嵌入式平台及工具 -->
   <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/-DSP28335-00447C?style=flat-square&logo=texasinstruments&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GD32-115B9C?style=flat-square&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/-RISC--V-2A558A?style=flat-square&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/-FreeRTOS-147B50?style=flat-square&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB/Simulink-DC3C00?style=flat-square&logo=mathworks&logoColor=white" />
