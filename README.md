@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-BLDC-2A6B9C?style=flat-square&logo=powerpages&logoColor=white" />
   <img src="https://img.shields.io/badge/-HFI%20高频注入-234B70?style=flat-square&logo=aither&logoColor=white" />
   <img src="https://img.shields.io/badge/-SMO滑模-2C5F8A?style=flat-square&logo=addthis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PLL锁相环-1F5C93?style=flat-square&logo=prettier&logoColor=white" />
   <!-- 嵌入式平台及工具 -->
   <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/-DSP28335-00447C?style=flat-square&logo=texasinstruments&logoColor=white" />
