@@ -1,4 +1,17 @@
- <h1 align="center"> <a href="https://www.yuque.com/coderxiaoluo"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好，我是星必尘Sguan!&center=true&size=27"> </a> </h1>
+#### Hi there 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sguan-ZhouQing&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true" align="right" width="45%">
+
+&nbsp;&nbsp;&nbsp;&nbsp;我是一名**电机控制算法工程师**，专注于永磁同步电机(PMSM)无传感器FOC控制，能够独立完成从算法仿真、嵌入式实现到硬件设计的全流程开发。我的核心能力包括：
+
++ 永磁同步电机(PMSM)无感FOC算法及电机控制链全实现
++ 嵌入式平台开发：ARM系列、DSP28335、RISC-V架构
++ 硬件电路设计：嘉立创EDA、PCB Layout、电机驱动板设计(多层高密度)
++ 工业总线通信：CAN/CANopen(CIA402)、Modbus、EtherCAT原理及应用
++ 实时操作系统：FreeRTOS/UCOS任务调度、看门狗、互斥锁机制
++ 仿真与分析：MATLAB/Simulink控制系统建模、数据可视化
+
+📫 联系我：**3464647102@qq.com** | [GitHub](https://github.com/Sguan-ZhouQing) | [硬件开源OSHWHub](https://oshwhub.com/sguan606)
  
 <!-- 技术栈徽章 -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
