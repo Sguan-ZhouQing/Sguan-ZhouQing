@@ -9,7 +9,7 @@
 📫 联系我：**3464647102@qq.com** | [GitHub](https://github.com/Sguan-ZhouQing) | [硬件开源OSHWHub](https://oshwhub.com/sguan606)
  
 <!-- 技术栈徽章 -->
-<div align="center" style="letter-spacing: 2px; margin: 10px 0;">
+<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
 
   <!-- 核心算法 & 电机专有 -->
   <img src="https://img.shields.io/badge/-FOC%20无感-0A2647?style=flat-square&logo=clockify&logoColor=white" />
