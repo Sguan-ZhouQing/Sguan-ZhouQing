@@ -1,4 +1,4 @@
-### 👋 Hi, I'm 星必尘Sguan <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sguan-ZhouQing&theme=github" align="right" width="45%">
+### 👋 Hi, I'm 星必尘Sguan <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sguan-ZhouQing&theme=default" align="right" width="35%">
 
 &nbsp;&nbsp;&nbsp;&nbsp;我是一名**电机控制算法工程师**，专注于永磁同步电机(PMSM)无传感器FOC控制，能独立完成从“算法仿真”到“软硬件设计”的全流程开发。我的核心能力包括：
 1. 永磁同步电机(PMSM)无感FOC算法及电控工程Simulink仿真
